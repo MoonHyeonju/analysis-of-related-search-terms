@@ -1,1 +1,1 @@
-# analysis-of-related-search-terms
+# 네이버 연관검색어 수집 & 분석 프로젝트
